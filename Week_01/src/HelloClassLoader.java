@@ -1,4 +1,4 @@
-package org.geekbang.java.01
+package org.geekbang.java.week.01
 
 import java.io.File;
 import java.io.FileInputStream;
